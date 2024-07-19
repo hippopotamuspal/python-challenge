@@ -1,4 +1,4 @@
-# python-challenGE
+# python-challenge
 
 Used for Both
 
